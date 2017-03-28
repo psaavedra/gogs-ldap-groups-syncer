@@ -1,5 +1,12 @@
 # gogs-ldap-groups-syncer
 
+
+* installation
+
+``` sh
+pip install gogs-ldap-groups-syncer
+```
+
 * manual execution:
 
 ``` sh
